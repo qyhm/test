@@ -1,0 +1,8 @@
+D:\Program Software\git code\text\test （main）
+
+git clone 仓库地址  ：将远程仓库克隆到本地
+git status  ：查看仓库状态
+
+git add test.txt  ：将test.txt添加到临时缓冲区
+git commit -m “commit test file”：提交信息到本地仓库
+git push  origin main ：origin是远程主机的名字，将本地仓库提交到远程仓库
